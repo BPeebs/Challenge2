@@ -6,6 +6,9 @@ This contains a helper function for loading and saving CSV files.
 """
 import csv
 
+def save_csv(csvpath, qualifying_loans):
+    with open(csvpath, "w", newline="") as csvfile:
+
 
 def load_csv(csvpath):
     """Reads the CSV file from path provided.
