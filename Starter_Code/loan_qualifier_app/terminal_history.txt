@@ -1,0 +1,50 @@
+  501  cd desktop
+  502  ls
+  503  cd fintech-workspace
+  504  ls
+  505  cd module_2
+  506  ls
+  507  cd Lesson_2_Challenge/
+  508  ls
+  509  cd challenge2
+  510  ls
+  511  cd starter_code
+  512  ls
+  513  cd loan_qualifier_app/
+  514  ls
+  515  git config --global user.name BPeebls
+  516  git config --global user.email BrianPeebles@hotmail.com
+  517  git config --list
+  518  git status
+  519  git add README.md
+  520  git status
+  521  git add app.py
+  522  git status
+  523  git commit -m "committing first changes"
+  524  git push
+  525  git status
+  526  pwd
+  527  git add data
+  528  git add qualifier
+  529  git status
+  530  git commit -m "adding files"
+  531  git push
+  532  git status
+  533  git add app.py
+  534  git status
+  535  git commit -m "adding save csv"
+  536  git status
+  537  git push
+  538  git status
+  539  ls
+  540  git status
+  541  ls
+  542  git add app.py
+  543  git add qualifier/utils/fileio.py
+  544  gist status
+  545  git status
+  546  git commit -m "added prompts to create csv with bank options and created save_csv def in fileio"
+  547  git push
+  548  git status
+  549  ls
+  550  history 50 > terminal_history.txt
