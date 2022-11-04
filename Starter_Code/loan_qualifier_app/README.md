@@ -42,5 +42,5 @@ This app was made possible by: BCS, Lavine Tang (tutor) and me.
 ## License
 
 Python software and documentation are licensed under the PSF License Agreement
-![Python](http://https://en.wikipedia.org/wiki/Python_(genus)#/media/File:Python_bivittatus_тигровый_питон.jpg)
+![python](https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg)
 
