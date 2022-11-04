@@ -7,6 +7,10 @@ This contains a helper function for loading and saving CSV files.
 import csv
 
 def save_csv(csvpath, qualifying_loans):
+    """Assuming loan qualifications are met the customer will be prompted 
+        to provide a file path. This will save the data"""
+
+
     with open(csvpath, "w", newline="") as csvfile:
 
 

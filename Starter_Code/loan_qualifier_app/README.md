@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualifier
 
 This application uses the latest information from participating banks to find a loan program that matches qualifying c
 iteria furnished by the user. It has been created using Python.
@@ -42,3 +42,5 @@ This app was made possible by: BCS, Lavine Tang (tutor) and me.
 ## License
 
 Python software and documentation are licensed under the PSF License Agreement
+![Python](http://https://en.wikipedia.org/wiki/Python_(genus)#/media/File:Python_bivittatus_тигровый_питон.jpg)
+
